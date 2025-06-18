@@ -19,7 +19,7 @@ export default function Renata_Braun_Header() {
                     Sanadora Cuántica | Pionera de ThetaHealing en México y LATAM +40 años guiando almas hacia su sanación física, emocional y espiritual
                     </p>
                     <div className="flex justify-center">
-                        <button className="bg-[#CB0482] text-white w-full h-14 text-4xl font-bold rounded-4xl cursor-pointer">RESERVAR CITA</button>
+                        <button className="bg-[#815138] text-white w-full h-14 text-4xl font-bold rounded-4xl cursor-pointer">RESERVAR CITA</button>
                     </div>
                 </div>
             </div>
